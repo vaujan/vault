@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Tuesday, 12 August 2025"
             }
+          },
+          {
+            "id": "4e6681073810c81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/Tuesday, 12 August 2025.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tuesday, 12 August 2025"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -240,21 +264,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a0895bc967424a05",
+  "active": "4e6681073810c81a",
   "lastOpenFiles": [
-    "README.md",
-    "daily notes",
+    "daily notes/Monday, 11 August 2025.md",
+    "note/Obsidian, The King of Learning Tools (FULL GUIDE + SETUP).md",
     "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
     "note/How To Wake Up Early, Automatically - Dr Andrew Huberman.md",
     "note/Why do you do the things you do?.md",
+    "daily notes/Tuesday, 12 August 2025.md",
+    "daily notes/Friday, 15 August 2025.md",
+    "README.md",
+    "daily notes",
     "note/How to Increase Motivation & Drive | Huberman Lab Essentials.md",
     "note/The ADHD Doctor “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen.md",
     "note/40 Harsh Life Lessons I Wish I Knew in My 20s.md",
     "reflections/My YouTube (and Porn) Addiction.md",
     "reflections/I suffer more in my imagination than in reality. But at the same time, I also sometimes feel happier in my imagination..md",
     "reflections/One-page Miracle.md",
-    "daily notes/Tuesday, 12 August 2025.md",
-    "daily notes/Monday, 11 August 2025.md",
     "daily notes/Sunday, 10 August 2025.md",
     "daily notes/Saturday, 9 August 2025.md",
     "daily notes/Friday, 8 August 2025.md",
@@ -272,7 +298,6 @@
     "2025-08-11 eat, shower.md",
     "2025-08-12 walk.md",
     "cal",
-    "Untitled.md",
     "reflections",
     "note",
     "Untitled.canvas",
