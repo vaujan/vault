@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "ded9fb98043eb861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/Tuesday, 12 August 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tuesday, 12 August 2025"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "daily notes/Tuesday, 12 August 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Tuesday, 12 August 2025"
             }
           },
           {
@@ -216,10 +240,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "27aecb92834fc7eb",
+  "active": "a0895bc967424a05",
   "lastOpenFiles": [
-    "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
     "README.md",
+    "daily notes",
+    "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
     "note/How To Wake Up Early, Automatically - Dr Andrew Huberman.md",
     "note/Why do you do the things you do?.md",
     "note/How to Increase Motivation & Drive | Huberman Lab Essentials.md",
@@ -228,13 +253,13 @@
     "reflections/My YouTube (and Porn) Addiction.md",
     "reflections/I suffer more in my imagination than in reality. But at the same time, I also sometimes feel happier in my imagination..md",
     "reflections/One-page Miracle.md",
-    "Tuesday, 12 August 2025.md",
-    "Monday, 11 August 2025.md",
-    "Sunday, 10 August 2025.md",
-    "Saturday, 9 August 2025.md",
-    "Friday, 8 August 2025.md",
-    "Thursday, 7 August 2025.md",
-    "Wednesday, 6 August 2025.md",
+    "daily notes/Tuesday, 12 August 2025.md",
+    "daily notes/Monday, 11 August 2025.md",
+    "daily notes/Sunday, 10 August 2025.md",
+    "daily notes/Saturday, 9 August 2025.md",
+    "daily notes/Friday, 8 August 2025.md",
+    "daily notes/Thursday, 7 August 2025.md",
+    "daily notes/Wednesday, 6 August 2025.md",
     "2 - tags",
     "1 - rough notes",
     "vault",
@@ -248,7 +273,6 @@
     "2025-08-12 walk.md",
     "cal",
     "Untitled.md",
-    "www.deepflow.click.md",
     "reflections",
     "note",
     "Untitled.canvas",
