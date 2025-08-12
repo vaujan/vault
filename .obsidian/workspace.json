@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "27aecb92834fc7eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +216,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "38f601c3c31e9ade",
+  "active": "27aecb92834fc7eb",
   "lastOpenFiles": [
     "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
     "README.md",
