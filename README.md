@@ -1,3 +1,2 @@
-# vault
-# vault
-# vault
+# Hello world
+This is your safe space to pour all of your thoughts and feelings. Accept this space as your own sanctuary, where nothing and no one can hurt you. Before it gets hacked of course...

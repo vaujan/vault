@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5 Mindset Shifts That Help You Reach Your Full Potential"
+              "title": "README"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5 Mindset Shifts That Help You Reach Your Full Potential"
+              "title": "Outline of README"
             }
           },
           {
@@ -187,17 +187,19 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "38f601c3c31e9ade",
   "lastOpenFiles": [
+    "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
+    "README.md",
     "note/How To Wake Up Early, Automatically - Dr Andrew Huberman.md",
     "note/Why do you do the things you do?.md",
     "note/How to Increase Motivation & Drive | Huberman Lab Essentials.md",
     "note/The ADHD Doctor “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen.md",
     "note/40 Harsh Life Lessons I Wish I Knew in My 20s.md",
-    "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
     "reflections/My YouTube (and Porn) Addiction.md",
     "reflections/I suffer more in my imagination than in reality. But at the same time, I also sometimes feel happier in my imagination..md",
     "reflections/One-page Miracle.md",
