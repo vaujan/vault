@@ -1,0 +1,27 @@
+#reflections 
+- Youtube definitely become one of my addictions
+- My list of addictions that I know of, consist of: 
+	- Porn
+	- Masturbating
+	- YouTube
+	- Procrastinating (I don't know if this is an addiction or not)
+- Beberapa pola menunda-nunda yang sering aku perhatikan ada dalam diriku adalah:
+	- Ketika aku ingin melakukan hal sulit seperti belajar atau ngoding, aku harus melakukan semacam ritual terlebih dahulu
+		- I have to do X, so I can do Y (Y is the thing that needs to be done. That is where the labor needs to be spend in)
+	- Aku akan melakukan hal sulit ini, setelah hiburan ini selesai. Contoh -> I will start coding after this 30 minutes YouTube video done
+		- I will do Y, after the X is done
+---
+- At this point, I **do not know** if my masturbation and porn addictions can be removed entirely. 
+- But, satu hal yang aku tahu pasti. Setiap kali aku resist atau menghindari godaan; **setiap aku memaksakan diriku untuk melakukan sesuatu, hal tersebut menambah willpower yang ada dalam diriku**
+	- AMCC -> Anterior mid-cingulate cortex, adalah bagian yang bertanggung jawab untuk willpower. Tingginya aktivitas di AMCC menandakan kemampuan willpower yang tinggi, dan begitupun sebaliknya
+	- AMCC secara natural akan terlatih dan membesar, saat kita melakukan hal yang sulit, **yang tidak ingin kita lakukan,** **yang sangat kita hindari**
+	- The friction, the suck, the haunting part, the stick. Itulah bagian inti dan terpenting dari proses menumbuhkan willpower dan AMCC
+- EasyPeasy https://read.easypeasymethod.org/ #unfinished 
+- For now, please try hard not too watch YouTube for enterntainment. 
+- Try to have a conscious decision on how you should approach YouTube and other entertainment consumptions
+	- Why are you doing this? Do you really wanna know this gossip? Does the information that they tell you can change your life for the better?
+	- Or worse, will it give you a new time-wasting activity that will stray you further away from your labor. Distracting you from doing the needed work to push the needle forward.
+	- Always ask. **Be active. Not passive**
+	- Be an active consumer. Notice that most information that you find in the internet are often disguised as education or knowledge worth seeking
+	- In fact, quite the opposite. Our time is finite, yet we're strolling and scrolling the web trying to find that 'might be useful' stuff, while ignoring the obvious important labor
+- Quitting social media is a cheat code. Waking up at 5 am everyday is a cheat code. Clean diet and healthy routine is a cheat code.

@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "a2cb82dc447907cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e817be1822699abe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f601c3c31e9ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5 Mindset Shifts That Help You Reach Your Full Potential"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "721cfbf487732c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "fba52703281f228a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0895bc967424a05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ebd421951b872c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce2b1adbd24ec956",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61cf4cd67e662018",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a93cab6006124a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995d8ee496af8883",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b2489290c042aa65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Friday, 8 August 2025.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Friday, 8 August 2025"
+            }
+          },
+          {
+            "id": "758f3750c7e8ca4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ffd3936cb6dcc22c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5 Mindset Shifts That Help You Reach Your Full Potential"
+            }
+          },
+          {
+            "id": "e91f819ab0b4b7b6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "38f601c3c31e9ade",
+  "lastOpenFiles": [
+    "note/How To Wake Up Early, Automatically - Dr Andrew Huberman.md",
+    "note/Why do you do the things you do?.md",
+    "note/How to Increase Motivation & Drive | Huberman Lab Essentials.md",
+    "note/The ADHD Doctor “I’ve Scanned 250,000 Brains” You (Steven Bartlett) Have ADHD!!! Dr Daniel Amen.md",
+    "note/40 Harsh Life Lessons I Wish I Knew in My 20s.md",
+    "note/5 Mindset Shifts That Help You Reach Your Full Potential.md",
+    "reflections/My YouTube (and Porn) Addiction.md",
+    "reflections/I suffer more in my imagination than in reality. But at the same time, I also sometimes feel happier in my imagination..md",
+    "reflections/One-page Miracle.md",
+    "Tuesday, 12 August 2025.md",
+    "Monday, 11 August 2025.md",
+    "Sunday, 10 August 2025.md",
+    "Saturday, 9 August 2025.md",
+    "Friday, 8 August 2025.md",
+    "Thursday, 7 August 2025.md",
+    "Wednesday, 6 August 2025.md",
+    "2 - tags",
+    "1 - rough notes",
+    "vault",
+    "my vault/Wednesday, 13 August 2025.md",
+    "my vault",
+    "[How To Wake Up Early, Automatically - Dr Andrew Huberman.md",
+    "2025-W33.md",
+    "2025-08-11 new .md",
+    "2025-08-11 walk.md",
+    "2025-08-11 eat, shower.md",
+    "2025-08-12 walk.md",
+    "cal",
+    "Untitled.md",
+    "www.deepflow.click.md",
+    "reflections",
+    "note",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

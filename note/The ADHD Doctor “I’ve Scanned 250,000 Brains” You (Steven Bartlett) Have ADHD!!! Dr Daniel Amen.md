@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=ycTZ_t-aiuU
+#notetake 
+- Whenever you hear a negative thoughts inside your mind, learn to **write it down** and **ask yourself a few questions**:
+	- Is it true?
+	- **Is it absolutely true**?
+	- How do you **feel** and **act** when you have these thoughts?
+	- What's the outcome of having the thoughts?
+	- How do you feel and act when you **don't** have these thoughts?
+	- What's the outcome of **not having** these thoughts?
+- Write down your 100 most negative thoughts, and have them through these process
+	- By the time you reach to 30, they will stops bothering you.
+- The don't worry and be happy people die earliest of accidents of preventable illnesses
+- The goal is not to reduce anxiety to zero. On a scale to 100, be at the 15. Not 50, not 0.
+- **One-page miracle**: on single piece of paper, write down all of your goal in a very specific terms -- your desired outcomes of a relationship, your finance, your money, your fitness and health goals, your mental, spiritual, and emotional.
+	- **The brain is lazy** and will find the most easy way out of a situation. It will go along with pathways to you've already built -- whether those are positive and negative.
+	- **Being intentional** will prevent your brain to go on full autopilot mode
+- You have to be **VERY CAREFUL** about what you're allowing into your own brain. Your brain involves in every single thing that you do. You are your brain.
+- It all starts with an awareness. Maybe it's not you, it's your brain.
+- You cannot change what you don't measures.
+- Unhealthy blood flow in your brain reduces impulse control.
+	- Sugar spikes introduced serotonin into the brain. When high in serotonin, impulse control drops significantly.

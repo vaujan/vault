@@ -1,0 +1,4 @@
+- Wake up at 05:35
+	- Best decision of the day
+	- Was written at 07:50
+	- Fixing our circadian rhythm should solves most of our oversleeping problems

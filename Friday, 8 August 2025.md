@@ -1,0 +1,16 @@
+- It is easy to be great nowadays because **most people are weak**
+- Be the standard
+	- Live up to your own ethos. Have mission statement for yourself, a life you want to live by
+	- Hold yourself accountable for that missions everyday
+- If you don't stand for something, you'll fall for everything
+---
+-  [Persyaratan Pendaftaran Program Magister UGM](https://um.ugm.ac.id/persyaratan-pendaftaran-magister/)
+	- Persiapkan diri, catat tanggal dan informasi penting
+	- Persyaratan: 
+		- Ijazah asli
+		- Transcript nilai asli
+		- Sertifikasi akreditasi program studi
+		- Sertifikat hasil tes potensi
+		- Sertifikat hasil tes kemampuan Bahasa Inggris
+		- Proyeksi keinginan calon dalam mengikuti program pascasarjana yang berisi alasan, harapan, rencana topik penelitian, dan rencana setelah selesai kuliah (format tertera)
+		- Dokumen Surat Pernyataan Keaslian Dokumen 
